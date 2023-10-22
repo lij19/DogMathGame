@@ -7,9 +7,11 @@ The goal of the game is to input the correct answers for various tasks, which wi
 Currently, the game provides 5 routes for unique repeatable gameplay. 
 
 ## Installation
-This game requires Java and can be played on any terminal application, such as Terminal (macOS) or Command Prompt (Windows), which should be pre-installed on your operating system.  
+This game requires Java (pre-installed on macOS, needs to be downloaded for Windows) and can be played on any terminal application, such as Terminal (macOS) or Command Prompt (Windows), which should be pre-installed on your operating system.  
 
 Download the DogMathGame.java file and save in a desired folder.
+
+If needed, download Java for Windows [here](https://www.oracle.com/java/technologies/downloads/#jdk21-windows). (choose x64 Installer)
 
 ## Usage
 1. To set up the game, open the terminal and locate the file path for "DogMathGame.java" (i.e. type cd [filename]/[filename/[filename]...etc., such as the path shown in file explorer, then press "Enter").
